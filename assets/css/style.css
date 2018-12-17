@@ -1,0 +1,52 @@
+body{
+	background-image: url("../images/trendy-abstract-geometric-pattern-background-vector.jpg")
+}
+div{
+	background-color: white;
+	margin: 10px;
+	width: 25%;
+}
+div{
+	border: solid 2px black;
+	padding: 10px;
+}
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+ol{
+	list-style: decimal inside; 
+}
+.numToMatch, .winsAndLosses{
+	float: left;
+	width: 15%;
+	height: 60px;
+}
+.numToMatch{
+	font-size: 30pt;
+}
+.userTotal{
+	width: 15%;
+	height: 60px;
+}
+.crystals{
+	clear: both;
+}
+.crystalImage{
+	height: 60px;
+	margin: 10px;
+}
+div.header, div.crystals{
+    background-color: #d47f10;
+    color: white;
+}
+div.header, div.instructions{
+	width: 50%;
+}
+div.instructions{
+    color: rgb(209, 125, 14);
+    font-weight: bold;
+}
